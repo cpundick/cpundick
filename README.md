@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpundick
-- 👀 I’m interested in ... Machine learning , anything to do with data and GTM operations! 
-- 🌱 I’m currently learning ... SQL, maybe a little python.
+- 👀 I’m interested in ... ML, Agentic workflows and automations for startups to stay lean
+- 🌱 I’m currently learning ... Data and AI strategy
 - 💞️ I’m looking to collaborate on ...Anything! 
 - 📫 How to reach me ... cjpundick@gmail.com
 - 😄 Pronouns: ...He/Him
